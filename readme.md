@@ -1,8 +1,8 @@
 # Explorando o RabbitMQ com Node.js
 
-![Node.js Logo](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
-![RabbitMQ Logo](https://www.rabbitmq.com/img/rabbitmq-logo.svg)
-![Docker Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Docker_logo.png)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 Neste repositório, realizei alguns testes com o RabbitMQ, utilizando o Node.js como **producer** e **consumer**. Durante os testes, aprendi bastante sobre o fluxo de filas e exchanges do RabbitMQ.
 
